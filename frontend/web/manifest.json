@@ -1,4 +1,4 @@
-{
+git commit -m "Initial SmartCharge EV project"{
     "name": "frontend",
     "short_name": "frontend",
     "start_url": ".",
